@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trouvez le secret</string>
+    <string name="strDevinez">Devinez</string>
+    <string name="val_inf">Saisir une valeur supérieure</string>
+    <string name="val_sup">Saisir une valeur inférieure</string>
+    <string name="bonne_valeur">La bonne valeur est </string>
+    <string name="ok">OK</string>
+    <string name="bravo">Bravo</string>
+    <string name="est_sup"> est supérieure</string>
+    <string name="est_inf"> est inférieure</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="oui">OUI</string>
+    <string name="quitter">Quitter</string>
+    <string name="gagnant">je suis le gagnant</string>
+    <string name="felicitation">Félicitation</string>
+</resources>

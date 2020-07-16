@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لعبة العثور على رقم ما بين 1 و 100</string>
+    <string name="strDevinez">إلعب</string>
+    <string name="val_inf"> أدخل رقما أكبر</string>
+    <string name="val_sup"> أدخل رقما أصغر</string>
+    <string name="bonne_valeur">الرقم هو</string>
+    <string name="ok">حسناا</string>
+    <string name="bravo">رائع أحسنت</string>
+    <string name="est_sup">هو رقم أكبر</string>
+    <string name="quitter">مغادرة</string>
+    <string name="oui">نعم</string>
+    <string name="rejouer">إعادة اللعب</string>
+    <string name="est_inf">هو رقم أصغر</string>
+    <string name="gagnant">أنا الفائز</string>
+    <string name="felicitation">تهانيناا</string>
+</resources>
+

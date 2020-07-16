@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find the number</string>
+    <string name="strDevinez">Guess</string>
+    <string name="val_inf">grater number</string>
+    <string name="val_sup">smaller number</string>
+    <string name="bonne_valeur">the right number is</string>
+    <string name="ok">UKEY</string>
+    <string name="bravo">Good</string>
+    <string name="est_sup">bis grater</string>
+    <string name="quitter">Exit</string>
+    <string name="oui">Yes</string>
+    <string name="rejouer">Replay</string>
+    <string name="est_inf">is smaler</string>
+    <string name="gagnant">i\'m the winner</string>
+    <string name="felicitation">Congratulations</string>
+</resources>
